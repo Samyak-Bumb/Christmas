@@ -48,7 +48,7 @@ section .box .circle::before{
   content: ' ';
   position: absolute;
   inset: 5px;
-  background: linear-gradient(315deg, #fff, #e4e3e8);
+  background: linear-gradient(315deg,#fff, #e4e3e8);
   border-radius: 50%;
 }
 section .box .circle h2{
